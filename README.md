@@ -1,2 +1,0 @@
-# myApp
-angular project
